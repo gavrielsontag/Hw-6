@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.touro.mco152.CalculatorHistoryTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2018-10-15T22:58:16" hostname="DESKTOP-AR2J155" time="0.014">
+  <properties/>
+  <testcase name="undo_shouldRemoveLastItem()" classname="edu.touro.mco152.CalculatorHistoryTest" time="0.001"/>
+  <testcase name="getHistory_shouldGetCorrectHistory()" classname="edu.touro.mco152.CalculatorHistoryTest" time="0.001"/>
+  <testcase name="undo_empty_shouldDoNothing()" classname="edu.touro.mco152.CalculatorHistoryTest" time="0.0"/>
+  <testcase name="getCurrentOperation()" classname="edu.touro.mco152.CalculatorHistoryTest" time="0.002"/>
+  <testcase name="getHistory_shouldGetCorrectHistory_afterPerformExpressionTwice()" classname="edu.touro.mco152.CalculatorHistoryTest" time="0.001"/>
+  <testcase name="undo_redo_shouldHaveOperation()" classname="edu.touro.mco152.CalculatorHistoryTest" time="0.0"/>
+  <testcase name="getHistory_shouldGetCorrectHistory_afterPerformExpression()" classname="edu.touro.mco152.CalculatorHistoryTest" time="0.0"/>
+  <testcase name="getCurrentOperation_noHistory()" classname="edu.touro.mco152.CalculatorHistoryTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
